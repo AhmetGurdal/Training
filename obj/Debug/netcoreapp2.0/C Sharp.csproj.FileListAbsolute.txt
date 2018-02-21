@@ -1,0 +1,10 @@
+/home/anormal/Projects/C Sharp/obj/Debug/netcoreapp2.0/C Sharp.csproj.CoreCompileInputs.cache
+/home/anormal/Projects/C Sharp/obj/Debug/netcoreapp2.0/C Sharp.AssemblyInfoInputs.cache
+/home/anormal/Projects/C Sharp/obj/Debug/netcoreapp2.0/C Sharp.AssemblyInfo.cs
+/home/anormal/Projects/C Sharp/bin/Debug/netcoreapp2.0/C Sharp.deps.json
+/home/anormal/Projects/C Sharp/bin/Debug/netcoreapp2.0/C Sharp.runtimeconfig.json
+/home/anormal/Projects/C Sharp/bin/Debug/netcoreapp2.0/C Sharp.runtimeconfig.dev.json
+/home/anormal/Projects/C Sharp/bin/Debug/netcoreapp2.0/C Sharp.dll
+/home/anormal/Projects/C Sharp/bin/Debug/netcoreapp2.0/C Sharp.pdb
+/home/anormal/Projects/C Sharp/obj/Debug/netcoreapp2.0/C Sharp.dll
+/home/anormal/Projects/C Sharp/obj/Debug/netcoreapp2.0/C Sharp.pdb
